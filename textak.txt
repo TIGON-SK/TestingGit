@@ -3,3 +3,4 @@ uplne zmemeny riadok
 
 toto je zmena na vetve testing
 2 zmena
+x
