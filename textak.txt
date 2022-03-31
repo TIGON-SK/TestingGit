@@ -1,7 +1,4 @@
 original line
 
-
-
-
-
 zmena na vetve branch finally
+brancha1
