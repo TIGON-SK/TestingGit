@@ -2,3 +2,5 @@ original line
 
 zmena na vetve branch finally
 brancha1
+brancha1
+brancha2
